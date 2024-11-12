@@ -5,6 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Digital Marketing Circle</title>
     <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        a { display: block; margin: 10px; padding: 10px; background: #007BFF; color: white; text-decoration: none; }
+        a:hover { background: #0056b3; }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Digital Marketing Circle</h1>
+    <p>Explore my programs below:</p>
+    <a href="https://www.pnd360.com" target="_blank">Discover How To Start An Online Business With A Proven Blueprint!</a>
+    <a href="https://www.amazon.com/How-Set-Home-Office-Less/dp/B0DH2LJCVV" target="_blank">How To Set Up A Home Office for $1,000 Or Less (Amazon)</a>
+    <a href="https://homeofficeebook.carrd.co/" target="_blank">Home Office E-Book</a>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Digital Marketing Circle</title>
+    <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
